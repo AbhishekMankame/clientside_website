@@ -1,4 +1,4 @@
 # clientside_website
  
 
-This is a simple webpage.
+This is the simple webpage.

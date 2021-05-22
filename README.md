@@ -1,3 +1,3 @@
 # clientside_website
  
-This is the simple webpage.
+this is the simple webpage.
